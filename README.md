@@ -1,4 +1,5 @@
-# react-whankungz
-18.ธรรมพร นวลสกุล
+# react-pod
+## 18.ธรรมพร นวลสกุล
 
-developed by Whankungz
+<br />
+**developed by Whankungz**
